@@ -10,11 +10,15 @@
        alt="Coding GIF"
        width="45" />
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-   <img src="assets/java.gif" alt="Java Logo" width="80" />
-</p>
+   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"
+       alt="Coding GIF"
+       width="45" />
+ <img src="https://skillicons.dev/icons?i=git,docker,jenkins" />
+<!--    <img src="assets/java.gif" alt="Java Logo" width="80" />
+</p> -->
 
 
-## ⚡️ About Me
+## ⚡ About Me
 - 🔭 Currently working on **Spring Boot + Angular projects**  
 - 🎯 Learning & exploring **Microservices, Cloud & DevOps**  
 - 💬 Ask me about **Java, REST APIs, Angular**  
